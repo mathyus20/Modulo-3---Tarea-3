@@ -1,0 +1,161 @@
+{"generos":[
+    {
+        "id": 1,
+"nombre": "buso blanco ",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./images/buso-blancohombre.png"
+    },
+    {
+        "id": 2,
+"nombre": "buso de bmo",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/buso-bmomujer.png"
+    },
+    {
+        "id": 3,
+"nombre": "buso de conejo",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/buso-conejomujer.png"
+    },
+    {
+        "id": 4,
+"nombre": "buso de goku",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/buso-gokuhombre.png"
+    },
+    {
+        "id": 5,
+"nombre": "buso de hora aventura",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/buso-jakehombre.png"
+    },
+    {
+        "id": 6,
+"nombre": "buso de naruto",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/buso-narutohombre.png"
+    },
+    {
+        "id": 7,
+"nombre": "buso negro",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/buso-negrohombre.png"
+    },
+    {
+        "id": 8,
+"nombre": "buso mujer",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/busomujer.png"
+    },
+    {
+        "id": 9,
+"nombre": "camisa de cine",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/camisacinemujer.png"
+    },
+    {
+        "id": 10,
+"nombre": "camisa de gatitos",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/camisagatitosmujer.png"
+    },
+    {
+        "id": 11,
+"nombre": "camisa de tigre",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/camisatigremujer.png"
+    },
+    {
+        "id": 12,
+"nombre": "camiseta de mujer",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/camisetamujer.png"
+    },
+    {
+        "id": 13,
+"nombre": "falda",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/faldamujer.png"
+    },
+    {
+        "id": 14,
+"nombre": "kimono amarillo",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/kimono-amarillohombre.png"
+    },
+    {
+        "id": 15,
+"nombre": "kimono blanco",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/kimono-blancohombre.png"
+    },
+    {
+        "id": 16,
+"nombre": "kimono rojo",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/kimono-rojohombre.png"
+    },
+    {
+        "id": 17,
+"nombre": "sudadera",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/sudaderahombre.png"
+    },
+    {
+        "id": 18,
+"nombre": "trapo para cuello",
+"genero": "hombre",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/trapohombre.png"
+    },
+    {
+        "id": 19,
+"nombre": "vestido de rayas",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/vestido-rayasmujer.png"
+    },
+    {
+        "id": 20,
+"nombre": "vestido",
+"genero": "mujer",
+"description": "este hermoso atuendo esta conformado por costureria hecha en colombia por manos colombianas, compralo ya",
+"precio": "1917.9781.1",
+"imagen": "./imagenes/vestidomujer.png"
+    }]}
